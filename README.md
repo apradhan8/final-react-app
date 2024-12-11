@@ -1,1 +1,3 @@
-This is the todo app react app with tailwindcss for beginners
+Final React TodoList App built using
+- React
+- Tailwind CSS
